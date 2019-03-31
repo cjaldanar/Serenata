@@ -54,8 +54,7 @@ En este numeral se pretende realizar la identificación, análisis y descripció
    
    # c.	Reporte al usuario, la serenata:
    
-   * Mediante un cuadro de texto se reportará al usuario el inicio de la serenata, donde se describirá el nombre del cantante y del     
-     músico con el instrumento que toca.
+   * Mediante un cuadro de texto, se reportará al usuario el inicio de la serenata cuando se visualice el nombre del cantante y del         instrumento que toca.
     
 # 3. MODELADO:
 
@@ -65,4 +64,4 @@ En este numeral se pretende realizar la identificación, análisis y descripció
 
    # b. Diagrama de Clases
    
-   # c. Diagrama de Secuencian
+   # c. Diagrama de Secuencia
