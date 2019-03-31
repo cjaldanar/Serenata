@@ -45,6 +45,9 @@ En este numeral se pretende realizar la identificación, análisis y descripció
    * El diseño (Relleno y trazado de la ventana ) y comportamiento (Acciones sobre la ventana) serán elaborados a través de sentencias        de Java.
    * Graficamente, la ventana se visualizará de la siguiente manera:
    
+   ![Imagen Pantalla proyectada.png](https://github.com/cjaldanar/Serenata/blob/master/Pantalla%20proyectada.png) 
+   
+   
    # b. Simulación de la aleatoriedad
    
    * A través de un metodo Random, se realizará la simulacion de aleatoriedad de los músicos e instrumentos, cuando se de clic en el          botón "Generar Serenata".
