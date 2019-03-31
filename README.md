@@ -16,4 +16,6 @@
 
    # CASO DE USO "FINALIZAR TOQUE"
      
-![Imagen Caso de Uso Finalizar Toque.png] (https://github.com/cjaldanar/Serenata/blob/master/Caso%20de%20Uso%20Finalizar%20Toque.png)
+![Caso de Uso Finalizar Toque.png](https://github.com/cjaldanar/Serenata/blob/master/Caso%20de%20Uso%20Finalizar%20Toque.png)
+
+
