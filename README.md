@@ -23,7 +23,7 @@ En este numeral se pretende realizar la identificación, análisis y descripció
   
   # b. Interfaz
   
-   * La interfaz utilizada será un formulario en Java.
+   * La interfaz utilizada será una ventana.
    * El color estimado para la ventana es gris claro.
    * Contendrá un botón para dar inicio a la generación de la serenata.
    * Contendrá un cuadro de texto para mostrar músicos e instrumentos que generan la serenata. 
@@ -33,13 +33,27 @@ En este numeral se pretende realizar la identificación, análisis y descripció
    * La aleatoriedad será originada por el sistema.
    * La aleatoriedad estará asociada al inicio de la serenata que activará cuando ésta sea iniciada con el botón "Generar Serenata".
    
-   # d. Reportar al usuario la serenata 
+   # d. Reportar al usuario, la serenata 
    
-   * Los músicos e instrumentos involucrados al inicio de la serenata se reportarán mediante un cuadro de texto, donde se describirá el      nombre del cantante y músico con el instrumento que toca.
+   * Mediante un cuadro de texto se reportará al usuario el inicio de la serenata.
 
 # 2. IDENTIFICACIÓN DE REQUISITOS:
 
-
+   # a. Interfaz:
+   
+   * Se construira en Netbeans un formulario en Java.
+   * El diseño (Relleno y trazado de la ventana ) y comportamiento (Acciones sobre la ventana) serán elaborados a través de sentencias        de Java.
+   * Graficamente, la ventana se visualizará de la siguiente manera:
+   
+   # b. Simulación de la aleatoriedad
+   
+   * A través de un metodo Random, se realizará la simulacion de aleatoriedad de los músicos e instrumentos, cuando se de clic en el          botón "Generar Serenata".
+   
+   # c.	Reporte al usuario, la serenata:
+   
+   * Mediante un cuadro de texto se reportará al usuario el inicio de la serenata, donde se describirá el nombre del cantante y del     
+     músico con el instrumento que toca.
+    
 # 3. MODELADO:
 
    # a. Diagrama UML: Identificación de Casos de Uso
