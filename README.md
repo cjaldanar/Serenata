@@ -10,12 +10,4 @@
 
 ![Imagen Caso de Uso Principal.png](https://github.com/cjaldanar/Serenata/blob/master/Caso%20de%20Uso%20Principal.png)
 
-   # CASO DE USO "GENERAR TOQUE"
-
-![Imagen Caso de Uso_Generar Toque.png](https://github.com/cjaldanar/Serenata/blob/master/Caso%20de%20Uso_Generar%20Toque.png)
-
-   # CASO DE USO "FINALIZAR TOQUE"
-     
-![Caso de Uso Finalizar Toque.png](https://github.com/cjaldanar/Serenata/blob/master/Caso%20de%20Uso%20Finalizar%20Toque.png)
-
-
+ 
