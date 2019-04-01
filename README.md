@@ -64,4 +64,6 @@ En este numeral se pretende realizar la identificación, análisis y descripció
 
    # b. Diagrama de Clases
    
+   ![Imagen Diagrama_de_clases.png](https://github.com/cjaldanar/Serenata/blob/master/Diagrama_de_clases.png)
+   
    # c. Diagrama de Secuencia
